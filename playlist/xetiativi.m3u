@@ -69,13 +69,14 @@ https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/stream/license?nisa=1775494459&token=aHR0cHM6Ly9yYXR1dmlkaW8uYWRwdHYud29ya2Vycy5kZXYvaW5kZXguZHJtP2lkPTE5MzU0JnR5cGU9ZHJtfDdhMDFlNWJhYTM%3D
 https://tvratu.my.id/stream/index.mpd?nisa=1775494459&token=aHR0cHM6Ly9yYXR1dmlkaW8uYWRwdHYud29ya2Vycy5kZXYvaW5kZXgubXBkP2lkPTE5MzU0JnR5cGU9ZGFzaHwzMmJlZjRmNzA5
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://images.indihometv.com/images/channels/image_ch_sctv.png",SCTV (VS) 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://images.indihometv.com/images/channels/image_ch_sctv.png",SCTV
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/ 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8 
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_rtv.png",RTV (DN) #EXTVLCOPT:http-referer=https://www.dens.tv/ 
+#EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_rtv.png",RTV 
+#EXTVLCOPT:http-referer=https://www.dens.tv/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=lite&amp;chname=RTV
 
@@ -98,13 +99,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67656300005f1fa66f20bfe92705cf33d22b57" group-title="LIVE LUAR ANGKASA",SPACE LIVE
 https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/2b4e1630-d2a8-4e0b-a43a-c87000d238e5/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOhxqqHoecpSlTBB_dm93CYvmK2rUtnjvDw&s" group-title="LIVE LUAR ANGKASA",MISI PERJALANAN KE BULAN - ARTEMIS 2 LIVE NASA 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOhxqqHoecpSlTBB_dm93CYvmK2rUtnjvDw&s" group-title="LIVE LUAR ANGKASA",Kepulangan Astronot ke Bumi - ARTEMIS 2 LIVE NASA 1
 https://www.youtube.com/watch?v=m3kR2KK8TEs
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOhxqqHoecpSlTBB_dm93CYvmK2rUtnjvDw&s" group-title="LIVE LUAR ANGKASA",MISI PERJALANAN KE BULAN - ARTEMIS 2 LIVE NASA 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOhxqqHoecpSlTBB_dm93CYvmK2rUtnjvDw&s" group-title="LIVE LUAR ANGKASA",Kepulangan Astronot ke Bumi - ARTEMIS 2 LIVE NASA 2
 https://www.youtube.com/watch?v=6RwfNBtepa4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW6Rry8oGnp8m01c1xyVXWCRAfbG8C_Jyk4w&s" group-title="LIVE LUAR ANGKASA",MISI PERJALANAN KE BULAN - ARTEMIS 2 LIVE NSF
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW6Rry8oGnp8m01c1xyVXWCRAfbG8C_Jyk4w&s" group-title="LIVE LUAR ANGKASA",Kepulangan Astronot ke Bumi - ARTEMIS 2 LIVE NSF
 https://www.youtube.com/watch?v=8n1GGe0fUBs
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOhxqqHoecpSlTBB_dm93CYvmK2rUtnjvDw&s" group-title="LIVE LUAR ANGKASA",STASIUN LUAR ANGKASA - SATELIT ISS NASA
@@ -131,7 +132,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://images.indihometv.com/images/channels/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg" group-title="NASIONAL",GTV (VS) 
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://images.indihometv.com/images/channels/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg" group-title="NASIONAL",GTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/rcti.png" group-title="TV NASIONAL",RCTI
