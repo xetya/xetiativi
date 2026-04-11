@@ -4,30 +4,6 @@
 #│ Tidak Boleh Diperjualbelikan, Apalagi Dibagikan Sembarangan, Kami Tidak Mengambil Keuntungan Dari Playlist Ini │
 #╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
 
-
-
-
-
-# ██╗  ██╗███████╗████████╗██╗   ██╗ █████╗ 
-# ╚██╗██╔╝██╔════╝╚══██╔══╝╚██╗ ██╔╝██╔══██╗
-#  ╚███╔╝ █████╗     ██║    ╚████╔╝ ███████║
-#  ██╔██╗ ██╔══╝     ██║     ╚██╔╝  ██╔══██║
-# ██╔╝ ██╗███████╗   ██║      ██║   ██║  ██║
-# ╚═╝  ╚═╝╚══════╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝
-
-
-
-
-
-#╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
-#│ Tidak Boleh Diperjualbelikan, Apalagi Dibagikan Sembarangan, Kami Tidak Mengambil Keuntungan Dari Playlist Ini │
-#╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
-
-
-
-
-
-
         #<!--- SPORTSTARS & OLAHRAGA --->#
 
 
@@ -64,9 +40,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #KODIPROP:inputstream.adaptive.license_key=https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/segment_ua194x9ch_ctvideo_cfm4s_ridp0va0br4500000_cs87121008000_mpd.m4s
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-
-
-        #<!--- EMTEK GRUP --->#
+ #<!--- EMTEK GRUP --->#
 
 #EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/AOxbahHgQCWUw-aXFWkZu78SKZY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5005226/d57e6c.jpg" group-title="@LIVE",Indosiar
 #EXTVLCOPT:http-referrer=https://m.vidio.com
@@ -94,13 +68,10 @@ http://bacot.full.diskon.cloud/vidio/8237.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/kompastv.png" group-title="TV NASIONAL",Kompas TV
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 
-
-
         #<!--- LUAR ANGKASA --->#
 
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67656300005f1fa66f20bfe92705cf33d22b57" group-title="LIVE LUAR ANGKASA",SPACE LIVE
 https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/2b4e1630-d2a8-4e0b-a43a-c87000d238e5/3.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOhxqqHoecpSlTBB_dm93CYvmK2rUtnjvDw&s" group-title="LIVE LUAR ANGKASA",Kepulangan Astronot ke Bumi - ARTEMIS 2 LIVE NASA 2
 https://www.youtube.com/watch?v=6RwfNBtepa4
@@ -110,11 +81,6 @@ https://www.youtube.com/watch?v=8n1GGe0fUBs
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOhxqqHoecpSlTBB_dm93CYvmK2rUtnjvDw&s" group-title="LIVE LUAR ANGKASA",STASIUN LUAR ANGKASA - SATELIT ISS NASA
 https://www.youtube.com/watch?v=sWasdbDVNvc
-
-
-
-
-
 
 
         #<!--- MNC GRUP --->#
@@ -148,12 +114,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 ##https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
-
-
-
-
-
-
         #<!--- TRANS GRUP --->#
 
 
@@ -165,12 +125,6 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w928110591_b344100_s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/trans7.png" group-title="TV NASIONAL",Trans 7 
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w79892327_b344100_sleng.m3u8
-
-
-
-
-
-
 
         #<!--- TVRI GRUP --->#
 
@@ -194,12 +148,6 @@ https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_250000=10000-mp4a_64
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
-
-
-
-
-
-
 
         #<!--- BEIN SPORTS --->#
 
@@ -225,10 +173,6 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-
-
-
 
         #<!--- TNT SPORTS --->#
 
@@ -269,10 +213,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 #https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-
-
-
-
         #<!--- BEIN SPORTS INDONESIA --->#
 
 
@@ -293,12 +233,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-
-
-
-
-
 
         #<!--- BERITA INDONESIA --->#
 
@@ -328,12 +262,6 @@ https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w528727893_b628000_sl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/vtv.png" group-title="TV NASIONAL",VTV 
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
-
-
-
-
-
-
 
         #<!--- RADIO INDONESIA --->#
 
@@ -373,10 +301,6 @@ https://ina.vinhostmedia.com:8000/kumalaradio
 
 #EXTINF:-1 tvg-logo="https://www.pramborsfm.com/_ipx/q_100/img/logo_circle.png" group-title="RADIO" ,PRAMBORS
 https://stream.rcs.revma.com/h77wwp48kxcwv
-
-
-
-
 
         #<!--- RADIO INTERNASIONAL --->#
 
