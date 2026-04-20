@@ -37,6 +37,12 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
  #<!--- EMTEK GRUP --->#
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/218.png" group-title="Local",IndosiarHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://paylist.ambatukan.workers.dev/s/firstmedia/78nmdcuz/play.mpd?id=218&hdnts=exp=1776716150~acl=/s/firstmedia/78nmdcuz/*~id=allUsers~hmac=89e3616b880ef51638bcfe3d2dfb03e2b34b033a3a0859027ee0fe02467441e9
+https://paylist.ambatukan.workers.dev/s/firstmedia/78nmdcuz/play.mpd?id=218&hdnts=exp=1776716150~acl=/s/firstmedia/78nmdcuz/*~id=allUsers~hmac=89e3616b880ef51638bcfe3d2dfb03e2b34b033a3a0859027ee0fe02467441e9
+
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://images.indihometv.com/images/channels/image_ch_sctv.png",SCTV
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/ 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
