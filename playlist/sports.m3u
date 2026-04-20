@@ -1,4 +1,6 @@
-        #<!--- BEIN SPORTS --->#
+#EXTM3U
+
+#<!--- BEIN SPORTS --->#
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LIGA SPANYOL",beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
