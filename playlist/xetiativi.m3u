@@ -168,6 +168,13 @@ https://www.youtube.com/live/xIiSaqq10Yw?si=x66-588NJj72e_mM
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/D8GYSTBdz_5Yc-CK0_eqQKoc1Uy5q8i4E6Gjv36eV76hPlbGR-I_eqTx-XBsDahhg7wzx9xDXB4=s88-c-k-c0x00ffffff-no-rj-mo" group-title="LIVE YOUTUBE" ,COACHELLA - OUTDOOR THEATRE
 https://www.youtube.com/live/CzAJcgiywFo?si=-ZO2sA-g1_Ntc9by
 
+
+        #<!--- VIDEO YOUTUBE --->#
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2nI_AVNm5wDkuJ6RS9nj8relBPqilYSjcKacCVXhzxw&s=10" group-title="VIDEO YOUTUBE" ,CHICKEN TUNNEL
+https://youtu.be/XIiUiqM6DjQ?si=41UBWcsgxJpBG1sI
+
+
         #<!--- RADIO INDONESIA --->#
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/938/iswara-jakarta.3c482bf1.jpg" group-title="RADIO" ,ISWARA JAKARTA
