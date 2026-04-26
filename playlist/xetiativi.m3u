@@ -75,10 +75,10 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 
         #<!--- LUAR ANGKASA --->#
 
-#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67656300005f1fa66f20bfe92705cf33d22b57" group-title="LIVE LUAR ANGKASA",SPACE LIVE
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67656300005f1fa66f20bfe92705cf33d22b57" group-title="LIVE LUAR ANGKASA",Space Live
 https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOhxqqHoecpSlTBB_dm93CYvmK2rUtnjvDw&s" group-title="LIVE LUAR ANGKASA",STASIUN LUAR ANGKASA - SATELIT ISS NASA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOhxqqHoecpSlTBB_dm93CYvmK2rUtnjvDw&s" group-title="LIVE LUAR ANGKASA",Stasiun Luar Angkasa - NASA
 https://www.youtube.com/watch?v=sWasdbDVNvc
 
 
@@ -88,7 +88,7 @@ https://www.youtube.com/watch?v=sWasdbDVNvc
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Kids.TV.id" tvg-name="Kids TV" tvg-logo="https://mimipipi22.github.io/logo/kids/kidstv.jpg" group-title="KIDS",KIDS TV
+#EXTINF:-1 tvg-id="Kids.TV.id" tvg-name="Kids TV" tvg-logo="https://mimipipi22.github.io/logo/kids/kidstv.jpg" group-title="KIDS",Kids TV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -129,7 +129,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/inews.jpg" group-title="TV NASIONAL",INEWS
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/inews.jpg" group-title="TV NASIONAL",Inews
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 ##https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
@@ -185,7 +185,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 http://ratu77.adptv.workers.dev/index.mpd?id=782&type=dash 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:-1 tvg-name="Sin Po TV" tvg-id="SinPOTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png" group-title="TV NASIONAL", SIN PO TV
+#EXTINF:-1 tvg-name="Sin Po TV" tvg-id="SinPOTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png" group-title="TV NASIONAL",Sinpo TV
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -198,7 +198,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-32777
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-
 
-#EXTINF:-1 tvg-id="JakTV.id" tvg-name="JAKTV" tvg-logo="https://www.mahakax.com/wp-content/uploads/2022/07/LOGO-JAKTV.png" group-title="TV NASIONAL", JakTV (Alternative)
+#EXTINF:-1 tvg-id="JakTV.id" tvg-name="JAKTV" tvg-logo="https://www.mahakax.com/wp-content/uploads/2022/07/LOGO-JAKTV.png" group-title="TV NASIONAL", JakTV
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -214,7 +214,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1206516038_b192000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/cnbcindo.png" group-title="TV NASIONAL;BERITA",CNBC INDONESIA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/cnbcindo.png" group-title="TV NASIONAL;BERITA",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w173758592_b192000_sleng.m3u8
 
@@ -264,12 +264,13 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest_wuseetv.mpd
 
 
+
         #<!--- LIVE YOUTUBE --->#
 
-#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="LIVE" ,LIVE SAAT INI
+#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="LIVE YT" ,LIVE 1
 https://www.youtube.com/live/lf5NpVD6iPE?si=2RQCuPDZDwnqbqJ6
 
-#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="LIVE" ,LIVE TERKINI
+#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="LIVE YT" ,LIVE 2
 https://www.youtube.com/live/KnJoCwVjCGs?si=VgVDo91SAr6KECy_
 
 
@@ -294,4 +295,41 @@ https://cdn10jtedge.indihometv.com/atm/mpd-vo/pramborstv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+
+
+
+        #<!--- RADIO INDONESIA --->#
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/938/iswara-jakarta.3c482bf1.jpg" group-title="RADIO" ,ISWARA JAKARTA
+https://stream.radiojar.com/4ywdgup3bnzuv
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cpu44hap66fa.jpg" group-title="RADIO" ,GENTA BALI
+http://stream.werdimedia.com:8200/;
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1NcVs0K80YC8tRfsJFEdj-Km2hbN8zQVnrA&s" group-title="RADIO" ,DELTA FM
+https://stream.rcs.revma.com/k02rmq48kxcwv
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/I2BBTjDaZ-4qFlyLFNoM1Xqv9FcdOlcb69SFXnKmYglELId-9OLl49Ng0goXQ6j44g" group-title="RADIO" ,AR BALI
+https://live.radioarbali.com:8450/radioar
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ7TXax5TuaQj82_aQ_geqhioa2dWf9YqNug&s" group-title="RADIO" ,HARDROCK
+https://n03.radiojar.com/7csmg90fuqruv.mp3?1673348819=&rj-ttl=5&rj-tok=AAABnR566LMA2s3lMxXMEMuryA
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/nsjujqhxfrch.jpg" group-title="RADIO" ,SUARA MAHAKAM
+https://i.klikhost.com/8010/stream
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/NCUHGk4XRJ.png" group-title="RADIO" ,RRI PRO 3
+https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/94TuYcUwex.png" group-title="RADIO" ,RRI PRO 1 JAKARTA
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/396/ardan-fm.46d7b4ee.jpg" group-title="RADIO" ,ARDAN FM
+https://stream.rcs.revma.com/ugpyzu9n5k3vv
+
+#EXTINF:-1 tvg-logo="https://radio-online.id/assets/image/radio/180/kum-samarinda.jpg" group-title="RADIO" ,KUMALA SAMARINDA
+https://ina.vinhostmedia.com:8000/kumalaradio
+
+#EXTINF:-1 tvg-logo="https://www.pramborsfm.com/_ipx/q_100/img/logo_circle.png" group-title="RADIO" ,PRAMBORS
+https://stream.rcs.revma.com/h77wwp48kxcwv
 
