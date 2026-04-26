@@ -265,6 +265,25 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest_wuseetv.mpd
 
 
 
+        #<!--- LIVE YOUTUBE --->#
+
+#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="LIVE YT" ,LIVE 1
+https://www.youtube.com/live/KnJoCwVjCGs?si=VgVDo91SAr6KECy_
+
+#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="LIVE YT" ,LIVE 2
+https://www.youtube.com/live/KnJoCwVjCGs?si=VgVDo91SAr6KECy_
+
+#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="LIVE YT" ,LIVE 3
+https://www.youtube.com/live/KnJoCwVjCGs?si=VgVDo91SAr6KECy_
+
+#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="LIVE YT" ,LIVE 4
+https://www.youtube.com/live/KnJoCwVjCGs?si=VgVDo91SAr6KECy_
+
+#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="LIVE YT" ,LIVE 5
+https://www.youtube.com/live/KnJoCwVjCGs?si=VgVDo91SAr6KECy_
+
+
+
         #<!--- MUSIC --->#
 
 #EXTINF:-1 tvg-id="MusikIndonesia.id" tvg-logo="https://i.postimg.cc/xdtkx9P0/musik-indo.png" group-title="MUSIC", Musik Indonesia
@@ -347,23 +366,3 @@ https://ais-sa2.cdnstream1.com/1976_128.mp3
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/584/luna-fm-world.2c1c9bdb.png" group-title="RADIO" ,LUNA FM
 https://world.lunafm.net/listen/lunaworld/mytuner-radio.aac
-
-
-
-        #<!--- LIVE YOUTUBE --->#
-
-#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="LIVE YT" ,LIVE 1
-https://www.youtube.com/live/KnJoCwVjCGs?si=VgVDo91SAr6KECy_
-
-#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="LIVE YT" ,LIVE 2
-https://www.youtube.com/live/KnJoCwVjCGs?si=VgVDo91SAr6KECy_
-
-#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="LIVE YT" ,LIVE 3
-https://www.youtube.com/live/KnJoCwVjCGs?si=VgVDo91SAr6KECy_
-
-#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="LIVE YT" ,LIVE 4
-https://www.youtube.com/live/KnJoCwVjCGs?si=VgVDo91SAr6KECy_
-
-#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="LIVE YT" ,LIVE 5
-https://www.youtube.com/live/KnJoCwVjCGs?si=VgVDo91SAr6KECy_
-
