@@ -153,6 +153,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLi
         #<!--- FIFA WORLD CUP --->#
 
 
+#EXTINF:-1 group-title="WORLD CUP" ,BEIN SPORTS 5 MAX
+https://fawatv.online/live/F2E62CEFFF6C6F88C237BD9DF4957C35/667.m3u8
+
 #EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoNz6L9nDGTphcEIYSC7A4olw4XaVUwjfkyPhWHyZRDFs8MeaRRseeIF0i9t5o17cKlEeLMnZcTdHuDp__Jgrv6prMJ1EcujiV5IeH4KV5ejOuFPoUgXf6qJ4y4r61xTGalcc2b36sar88qyAQYP26BSbT1kwaCPszLGNAqLKXvKOAVFUosU1pJ0bD4Bq/s700/FIFA%20WC%202026%201.gif",WORLD CUP TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
