@@ -167,6 +167,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLi
 
 
 
+
+
+
+
         #<!--- FIFA WORLD CUP --->#
 
 
@@ -339,6 +343,7 @@ https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w528727893_b628000_sl
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc","X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
 https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 
+
 #<!--- BEIN SPORTS --->#
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="🟠OLAHRAGA",beIN Sports 1
@@ -424,64 +429,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
-#EXTINF:-1 group-title="🟠KIDS" tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://object-streamo.emonaja.com/img/animax.png", Animax
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
-
-#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-name="Animax" group-title="🟠KIDS" tvg-logo="https://object-streamo.emonaja.com/img/animax.png", Animax Japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-#EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" tvg-logo="https://object-streamo.emonaja.com/img/aniplus.png" group-title="🟠KIDS", Aniplus
-https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest_wuseetv.mpd
-
-
-
-        #<!--- LIVE YOUTUBE --->#
-
-#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="🟠LIVE YT" ,LIVE 1
-https://www.youtube.com/live/rRJngUzYbhk?si=RBZWtv7Q6Y9bnkqa
-
-#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="🟠LIVE YT" ,LIVE 2
-https://www.youtube.com/live/KnJoCwVjCGs?si=VgVDo91SAr6KECy_
-
-#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="🟠LIVE YT" ,LIVE 3
-https://www.youtube.com/live/KnJoCwVjCGs?si=VgVDo91SAr6KECy_
-
-#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="🟠LIVE YT" ,LIVE 4
-https://www.youtube.com/live/KnJoCwVjCGs?si=VgVDo91SAr6KECy_
-
-#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="🟠LIVE YT" ,LIVE 5
-https://www.youtube.com/live/KnJoCwVjCGs?si=VgVDo91SAr6KECy_
-
-
-
-        #<!--- MUSIC --->#
-
-#EXTINF:-1 tvg-id="MusikIndonesia.id" tvg-logo="https://i.postimg.cc/xdtkx9P0/musik-indo.png" group-title="🟠MUSIC", Musik Indonesia
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e092c5a72f3444419756b6a66c5e64da:8193b7dbb3e1c62ddd30546d3aaf9d40
-https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest_wuseetv.mpd
-
-#EXTINF:-1 tvg-id="Prambors.id" tvg-name="Prambors" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/250px-Prambors.svg.png" group-title="🟠MUSIC", Prambors TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=97ff88352c574038b70e09642a90feec:66c062a920329c52fb446fac728c90d7
-https://cdn10jtedge.indihometv.com/atm/mpd-vo/pramborstv/manifest.mpd
-
-#EXTINF:-1 group-title="🟠MUSIC" tvg-logo="https://object-streamo.emonaja.com/img/Musictv.png", Music TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
-
 
 
         #<!--- RADIO INDONESIA --->#
@@ -543,3 +490,37 @@ https://ais-sa2.cdnstream1.com/1976_128.mp3
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/584/luna-fm-world.2c1c9bdb.png" group-title="🟠RADIO" ,LUNA FM
 https://world.lunafm.net/listen/lunaworld/mytuner-radio.aac
+
+
+        #<!--- MUSIC --->#
+
+#EXTINF:-1 group-title="🟠MUSIC" tvg-logo="https://object-streamo.emonaja.com/img/Musictv.png", Music TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+
+
+        #<!--- LIVE YOUTUBE --->#
+
+#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="🟠LIVE YT" ,LIVE 1
+https://www.youtube.com/live/rRJngUzYbhk?si=RBZWtv7Q6Y9bnkqa
+
+#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="🟠LIVE YT" ,LIVE 2
+https://www.youtube.com/live/KnJoCwVjCGs?si=VgVDo91SAr6KECy_
+
+#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="🟠LIVE YT" ,LIVE 3
+https://www.youtube.com/live/KnJoCwVjCGs?si=VgVDo91SAr6KECy_
+
+#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="🟠LIVE YT" ,LIVE 4
+https://www.youtube.com/live/KnJoCwVjCGs?si=VgVDo91SAr6KECy_
+
+#EXTINF:-1 tvg-logo="https://thumb.ac-illust.com/96/9613c34a2ec9a5c83a25fd1b9e4d79b7_t.jpeg" group-title="🟠LIVE YT" ,LIVE 5
+https://www.youtube.com/live/KnJoCwVjCGs?si=VgVDo91SAr6KECy_
+
+
+
+
+
+
