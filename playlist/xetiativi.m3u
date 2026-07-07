@@ -38,10 +38,10 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
  #<!--- EMTEK GRUP --->#
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/indosiar.png" group-title="🟠TV NASIONAL", Indosiar
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-https://ratu77.adptv.workers.dev/index.mpd?id=205&type=dash
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/sctv.png" group-title="🟠TV NASIONAL", SCTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
