@@ -122,41 +122,39 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
         #<!--- TRANS GRUP --->#
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/transtv.png" group-title="🟠TV NASIONAL",Trans TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://20.detik.com/
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w928110591_b344100_sleng.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/trans7.png" group-title="🟠TV NASIONAL",Trans 7 
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w79892327_b344100_sleng.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 
-        #<!--- DENS TV GRUP --->#
 
-#EXTINF:-1 tvg-id="DensPlay.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjojXch53uEr8LRXODCIUc4JluvHqC0bmPlfaWHmq690bEkxE1Xj-aW8RmwbYHLRTDdTOSM_gpchy-1Jo2axy3COWu7TejPY_Uqfx4mXqBYWAjugRKCURNdcUla_5X-imAM5H2IRm1kIAk00pmqFwf2IEQPmJTdRpFgkQsV5W9GZYLCmbwySfgTAP0xhU4/s700/Densplay.png" group-title="🟠TV NASIONAL",Dens Play
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://op-flashcon-digdayahd-1.dens.tv/h/h246/index.m3u8?app_type=web&userid=lite&chname=DensPlay
+        #<!--- TV LAINNYA --->#
 
-#EXTINF:-1 tvg-id="DensFoodChannel.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHtEpw4BcqR4K9WVIkEFAt7NZ1ZHREbZ6bAt8ly6zYNsFp7wMULpQ6SfH8y8LEEzFfga2RZp1QlQoTyF9-sH31QQOzJ9KL6L__ZYigvaWLjxbCRuABp7Q8C3qWXMzTEJaV0Zs-TyCOMKO6CUSQrJbQnnJUOJL9xB0lnNKZCRF6kXmgLBIlT3x1_Zt567Y/s700/Densfood.png" group-title="🟠TV NASIONAL",Densfood
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://op-flashcon-digdayahd-1.dens.tv/h/h221/index.m3u8?app_type=web&userid=lite&chname=DensFood_Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrSxoeiCy0TZQEmoxEulhOpj-Lyus238XGa7B1rTLKR-XU_xH4MQyyWeWIo-B3ODRgAm01ZSDcltLYV92erQLeb-xUqURaJ7gF4AZ1BlCveRRORRNNcIO3NscgnC0mLBv9Qs40bIqr0ZqhFT1yBq5d3zMRzq4462asa0v9lQ90v3H9Pefo4CObNv1Xfls/s700/IndonesianaTV.png" group-title="🟠TV NASIONAL",Indonesiana TV
+https://tvstreamcast.com/indonesiana.m3u8
 
-#EXTINF:-1 tvg-id="DensLearningKnowledge.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7afaggzXsFpbtEW04FfOee77dBYDDPmM74H3IBm1MdxVewBJUsl8xqAPSrlMoyRj3RF1LsyngWgQJFE58YQdKLvZFISjKzhUpJh9D5K3Cy8PGh3CMe0VN6i9zgOwyvBHdWb93MZ5mKRs042E_WzCAs0uGK619GcwjuJ2m4VUyQX-Rj-UPGWiNeveZy0Y/s700/DensKnowledge.png" group-title="🟠TV NASIONAL",Dens Knowledge
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://op-flashcon-digdayahd-1.dens.tv/h/h236/index.m3u8?app_type=web&userid=lite&chname=DensKnowledge
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqiDGh5MUdIk7oNSAmOIxarvmK3iyNwSNwrWUk7DQwKotW0a3fxFONRX10RTEaRvId8Y3lda2Y3XcpfPtHCwMcg8irZgzElKY43KPVR-Q3m7bM-JbzvConHjIxY9Z8AoN8iGn3ofHqEbnMQxxsQTaYxxP-pd6YWCA-x6Pn3ruDA9i5C9JxYQRq43QDbeg/s700/MagnaChannel.png" group-title="🟠TV NASIONAL",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DensShowBiz.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQa-fZ3GWyicB-nkWuBeigWzYXw3hFKktEBliGFPQ_ch0jJR4xPasOlLD6hfY3xCsPLoU7wLHe95YeThIxkJEza0UnilYL_NjU66fe2g2j7f85y3DeDza2msO8Xq_V5S6KXOEil6zdozB1Lkz_d0n4M9w1LPcLqC27KzdlF8_XpDwjwfo4VQ1svbA6LQc/s700/DensShowbiz.png" group-title="🟠TV NASIONAL",Dens Showbiz
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://op-flashcon-digdayahd-1.dens.tv/h/h244/index.m3u8?app_type=web&userid=lite&chname=DensShowBiz
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxuB6oKuoedCXi6WjriftDiIaUiNnkom7gqaMmHYP9x5YnpwReu2uNCwfKJsIgBAi4P44Cy4xhceSZcnYhRAS0XZDoXYibrr1JEvlvLOzyF3GqwiNs3U-h5PaLSR6GmEthe6D11IcR8hdqoZ_SUkKvivA0gscVgTgkTY1bD9o5_C3ZeoIWCHv1dTMsHEk/s700/GarudaTV.png" group-title="🟠TV NASIONAL",Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
-#EXTINF:-1 tvg-id="DensLifeStyle.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqNJWB4-Vnk6YGdZrW8nZZN4C1tZS2PkjTLrf2bkClBNg99TuLIfbIqbHdxMsk_S2WgUNrbDLS0AFSZbj4ipQei8_yZWByrJNRMVeAfKiOC5SZ5V5DiYXeuqK-CUpvoeu3OgMl8AMClMfBFXJwooIiIbM9M8yq8NiAxUMrHpaWiDghYJYFdFyHJj1ZnPo/s700/DensLifestyle.png" group-title="🟠TV NASIONAL",Dens Lifestyle
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://op-flashcon-digdayahd-1.dens.tv/h/h222/index.m3u8?app_type=web&userid=lite&chname=DensLifenStyle
+#EXTINF:-1 tvg-id="BiznetAdventure.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkjJQwE5jnI7lw_eKYLTgsnrx-Z2eqlmcTjKN0JXS8Y3hGJlErDgi6YoPimYFOhaI8dZY0PyeTfYS15SAUHcfCT-Pt4MRFP6Ccf0WKPi0cWqcaiPAJFbPmWrvaTZ83gqpbN1XG4qiqV3Szt-O27na-_h78voB8njGs5xsISPxOvVR6mSyQ1HRIr8D893s/s700/BAdventure.png" group-title="🟠TV BIZNET",Biznet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BiznetLifestyle.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9jWGMdq85wZsacNqIpEg0dYkXebmNp_ynKhxRjZYNdqQpH4Eq8ZZyX3AaNr98CprUhufgaqJw___l0WStdiehw-X_Noz0pvkc13zpnuWfiKR6lnaw6CY3cIeYU7d1P4C2sfTHZ6YeMdkJoDUIr-rLlt9sOdrGOYZN2k4rIsH4Naqa6sgNewqtc33dIQY/s700/BKids.png" group-title="🟠TV BIZNET",Biznet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -166,112 +164,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h222/index.m3u8?app_type=web&userid=li
 https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLifestyleHD.mpd
 
 
-
-
-
-
-
-
-        #<!--- FIFA WORLD CUP --->#
-
-
-#EXTINF:-1 group-title="🟠PIALA DUNIA" ,BEIN SPORTS 5 MAX
-https://fawatv.online/live/F2E62CEFFF6C6F88C237BD9DF4957C35/667.m3u8
-
-
-
-#EXTINF:-1 group-title="🟠PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoNz6L9nDGTphcEIYSC7A4olw4XaVUwjfkyPhWHyZRDFs8MeaRRseeIF0i9t5o17cKlEeLMnZcTdHuDp__Jgrv6prMJ1EcujiV5IeH4KV5ejOuFPoUgXf6qJ4y4r61xTGalcc2b36sar88qyAQYP26BSbT1kwaCPszLGNAqLKXvKOAVFUosU1pJ0bD4Bq/s700/FIFA%20WC%202026%201.gif",JOJ SPORT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
-
-#EXTINF:-1 group-title="🟠PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoNz6L9nDGTphcEIYSC7A4olw4XaVUwjfkyPhWHyZRDFs8MeaRRseeIF0i9t5o17cKlEeLMnZcTdHuDp__Jgrv6prMJ1EcujiV5IeH4KV5ejOuFPoUgXf6qJ4y4r61xTGalcc2b36sar88qyAQYP26BSbT1kwaCPszLGNAqLKXvKOAVFUosU1pJ0bD4Bq/s700/FIFA%20WC%202026%201.gif",BBC ONE KILATLIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kilat-live.com/
-#EXTVLCOPT:http-origin=https://kilat-live.com
-https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_BBC_1_TV/index.m3u8
-
-#EXTINF:-1 group-title="🟠PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoNz6L9nDGTphcEIYSC7A4olw4XaVUwjfkyPhWHyZRDFs8MeaRRseeIF0i9t5o17cKlEeLMnZcTdHuDp__Jgrv6prMJ1EcujiV5IeH4KV5ejOuFPoUgXf6qJ4y4r61xTGalcc2b36sar88qyAQYP26BSbT1kwaCPszLGNAqLKXvKOAVFUosU1pJ0bD4Bq/s700/FIFA%20WC%202026%201.gif",ITV 1 KILATLIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kilat-live.com/
-#EXTVLCOPT:http-origin=https://kilat-live.com
-https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_ITV_1_TV/index.m3u8
-
-#EXTINF:-1 group-title="🟠PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoNz6L9nDGTphcEIYSC7A4olw4XaVUwjfkyPhWHyZRDFs8MeaRRseeIF0i9t5o17cKlEeLMnZcTdHuDp__Jgrv6prMJ1EcujiV5IeH4KV5ejOuFPoUgXf6qJ4y4r61xTGalcc2b36sar88qyAQYP26BSbT1kwaCPszLGNAqLKXvKOAVFUosU1pJ0bD4Bq/s700/FIFA%20WC%202026%201.gif",FOX SPORTS KILATLIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kilat-live.com/
-#EXTVLCOPT:http-origin=https://kilat-live.com
-https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/FOX_SPORTS_1_TV/index.m3u8
-
-#EXTINF:-1 group-title="🟠PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoNz6L9nDGTphcEIYSC7A4olw4XaVUwjfkyPhWHyZRDFs8MeaRRseeIF0i9t5o17cKlEeLMnZcTdHuDp__Jgrv6prMJ1EcujiV5IeH4KV5ejOuFPoUgXf6qJ4y4r61xTGalcc2b36sar88qyAQYP26BSbT1kwaCPszLGNAqLKXvKOAVFUosU1pJ0bD4Bq/s700/FIFA%20WC%202026%201.gif",TIPIK 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
-
-#EXTINF:-1 group-title="🟠PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoNz6L9nDGTphcEIYSC7A4olw4XaVUwjfkyPhWHyZRDFs8MeaRRseeIF0i9t5o17cKlEeLMnZcTdHuDp__Jgrv6prMJ1EcujiV5IeH4KV5ejOuFPoUgXf6qJ4y4r61xTGalcc2b36sar88qyAQYP26BSbT1kwaCPszLGNAqLKXvKOAVFUosU1pJ0bD4Bq/s700/FIFA%20WC%202026%201.gif",BBC
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7dc3abc5027b234af5af237d9ba1fb16:2542140d96078c87eca2a2b2fd7529aa
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dxhd2i96mn/out/v1/c622abb40a8143d08135f5d8a5fccdc9/cenc.mpd
-
-
-#EXTINF:-1 group-title="🟠PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoNz6L9nDGTphcEIYSC7A4olw4XaVUwjfkyPhWHyZRDFs8MeaRRseeIF0i9t5o17cKlEeLMnZcTdHuDp__Jgrv6prMJ1EcujiV5IeH4KV5ejOuFPoUgXf6qJ4y4r61xTGalcc2b36sar88qyAQYP26BSbT1kwaCPszLGNAqLKXvKOAVFUosU1pJ0bD4Bq/s700/FIFA%20WC%202026%201.gif",TVRI NASIONAL
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-#http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
-
-#EXTINF:-1 group-title="🟠PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoNz6L9nDGTphcEIYSC7A4olw4XaVUwjfkyPhWHyZRDFs8MeaRRseeIF0i9t5o17cKlEeLMnZcTdHuDp__Jgrv6prMJ1EcujiV5IeH4KV5ejOuFPoUgXf6qJ4y4r61xTGalcc2b36sar88qyAQYP26BSbT1kwaCPszLGNAqLKXvKOAVFUosU1pJ0bD4Bq/s700/FIFA%20WC%202026%201.gif",TVRI SPORT
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-https://op-flashcon-digdayahd-1.dens.tv/h/h19/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
-
-#EXTINF:-1 group-title="🟠PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoNz6L9nDGTphcEIYSC7A4olw4XaVUwjfkyPhWHyZRDFs8MeaRRseeIF0i9t5o17cKlEeLMnZcTdHuDp__Jgrv6prMJ1EcujiV5IeH4KV5ejOuFPoUgXf6qJ4y4r61xTGalcc2b36sar88qyAQYP26BSbT1kwaCPszLGNAqLKXvKOAVFUosU1pJ0bD4Bq/s700/FIFA%20WC%202026%201.gif",CCTV5 (CHINA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-http://74.91.26.218:82/live/cctv5hd.m3u8
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-http://69.30.245.50/live/cctv5.m3u8
-
-#EXTINF:-1 group-title="🟠PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoNz6L9nDGTphcEIYSC7A4olw4XaVUwjfkyPhWHyZRDFs8MeaRRseeIF0i9t5o17cKlEeLMnZcTdHuDp__Jgrv6prMJ1EcujiV5IeH4KV5ejOuFPoUgXf6qJ4y4r61xTGalcc2b36sar88qyAQYP26BSbT1kwaCPszLGNAqLKXvKOAVFUosU1pJ0bD4Bq/s700/FIFA%20WC%202026%201.gif",CCTV5+ (CHINA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-http://74.91.26.218:82/live/cctv5p.m3u8
-http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-#http://69.30.246.194/live/cctv5p.m3u8
-
-#EXTINF:-1 group-title="🟠PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoNz6L9nDGTphcEIYSC7A4olw4XaVUwjfkyPhWHyZRDFs8MeaRRseeIF0i9t5o17cKlEeLMnZcTdHuDp__Jgrv6prMJ1EcujiV5IeH4KV5ejOuFPoUgXf6qJ4y4r61xTGalcc2b36sar88qyAQYP26BSbT1kwaCPszLGNAqLKXvKOAVFUosU1pJ0bD4Bq/s700/FIFA%20WC%202026%201.gif",CCTV16 (CHINA)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-
-#EXTINF:-1  tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="🟠PIALA DUNIA", TVRI Sport (Indonesia/Alt)
-http://103.148.44.38:8000/play/a05u/index.m3u8
-
-#EXTINF:-1 group-title="🟠PIALA DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tipik_2025.svg/1280px-Tipik_2025.svg.png", RTBF TIPIK 1 (Belgium)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
-
-#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="🟠PIALA DUNIA", BBC One (United Kingdom)
-https://xemzi.short.gy/1000001
-
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="iTV1 FHD" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" group-title="🟠PIALA DUNIA", iTV 1 (United Kingdom/Alt)
-https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptj3lPI8UBnoHcZAWrFT58u/m3u8
-
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="🟠PIALA DUNIA", SporTV (Brazil/Alt)
-http://hnsefpop.top:8080/5931732027487620/b2f3097fed2c/10675
-
-
-
-
-
-
-
         #<!--- TVRI GRUP --->#
 
 #EXTINF:-1 tvg-id="TVRINasional.go.id" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvri.png" group-title="🟠TV NASIONAL",TVRI Nasional
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_500000=10001-mp4a_64000_eng=20003.m3u8
+https://flv.intechmedia.net/live/ch113.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/tvriworld.png" group-title="🟠TV NASIONAL",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_250000=10000-mp4a_64000=20001.m3u8
@@ -337,12 +233,33 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8?app_type=web&userid=lite&c
 https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w528727893_b628000_sleng.m3u8
 
 
-        #<!--- LAINNYA --->#
 
-#EXTINF:-1 tvg-id="VTV.id" tvg-logo="https://object-streamo.emonaja.com/img/vtv.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="🟠KIDS", VTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc","X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
-https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+        #<!--- DENS TV GRUP --->#
+
+#EXTINF:-1 tvg-id="DensPlay.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjojXch53uEr8LRXODCIUc4JluvHqC0bmPlfaWHmq690bEkxE1Xj-aW8RmwbYHLRTDdTOSM_gpchy-1Jo2axy3COWu7TejPY_Uqfx4mXqBYWAjugRKCURNdcUla_5X-imAM5H2IRm1kIAk00pmqFwf2IEQPmJTdRpFgkQsV5W9GZYLCmbwySfgTAP0xhU4/s700/Densplay.png" group-title="🟠TV NASIONAL",Dens Play
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h246/index.m3u8?app_type=web&userid=lite&chname=DensPlay
+
+#EXTINF:-1 tvg-id="DensFoodChannel.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHtEpw4BcqR4K9WVIkEFAt7NZ1ZHREbZ6bAt8ly6zYNsFp7wMULpQ6SfH8y8LEEzFfga2RZp1QlQoTyF9-sH31QQOzJ9KL6L__ZYigvaWLjxbCRuABp7Q8C3qWXMzTEJaV0Zs-TyCOMKO6CUSQrJbQnnJUOJL9xB0lnNKZCRF6kXmgLBIlT3x1_Zt567Y/s700/Densfood.png" group-title="🟠TV NASIONAL",Densfood
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h221/index.m3u8?app_type=web&userid=lite&chname=DensFood_Channel
+
+#EXTINF:-1 tvg-id="DensLearningKnowledge.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7afaggzXsFpbtEW04FfOee77dBYDDPmM74H3IBm1MdxVewBJUsl8xqAPSrlMoyRj3RF1LsyngWgQJFE58YQdKLvZFISjKzhUpJh9D5K3Cy8PGh3CMe0VN6i9zgOwyvBHdWb93MZ5mKRs042E_WzCAs0uGK619GcwjuJ2m4VUyQX-Rj-UPGWiNeveZy0Y/s700/DensKnowledge.png" group-title="🟠TV NASIONAL",Dens Knowledge
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h236/index.m3u8?app_type=web&userid=lite&chname=DensKnowledge
+
+#EXTINF:-1 tvg-id="DensShowBiz.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQa-fZ3GWyicB-nkWuBeigWzYXw3hFKktEBliGFPQ_ch0jJR4xPasOlLD6hfY3xCsPLoU7wLHe95YeThIxkJEza0UnilYL_NjU66fe2g2j7f85y3DeDza2msO8Xq_V5S6KXOEil6zdozB1Lkz_d0n4M9w1LPcLqC27KzdlF8_XpDwjwfo4VQ1svbA6LQc/s700/DensShowbiz.png" group-title="🟠TV NASIONAL",Dens Showbiz
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h244/index.m3u8?app_type=web&userid=lite&chname=DensShowBiz
+
+#EXTINF:-1 tvg-id="DensLifeStyle.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqNJWB4-Vnk6YGdZrW8nZZN4C1tZS2PkjTLrf2bkClBNg99TuLIfbIqbHdxMsk_S2WgUNrbDLS0AFSZbj4ipQei8_yZWByrJNRMVeAfKiOC5SZ5V5DiYXeuqK-CUpvoeu3OgMl8AMClMfBFXJwooIiIbM9M8yq8NiAxUMrHpaWiDghYJYFdFyHJj1ZnPo/s700/DensLifestyle.png" group-title="🟠TV NASIONAL",Dens Lifestyle
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h222/index.m3u8?app_type=web&userid=lite&chname=DensLifenStyle
 
 
 #<!--- BEIN SPORTS --->#
