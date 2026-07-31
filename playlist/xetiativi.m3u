@@ -43,7 +43,14 @@ https://www.youtube.com/live/jqswBWiQz0g?si=V92TDIhXT07rc7RB
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/sctv.png" group-title="🟠TV NASIONAL", SCTV
-https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#https://ratu77.adptv.workers.dev/index.mpd?id=204&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
 #EXTINF:-1 group-title="🟠TV NASIONAL" tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_rtv.png",RTV 
 #EXTVLCOPT:http-referer=https://www.dens.tv/ 
