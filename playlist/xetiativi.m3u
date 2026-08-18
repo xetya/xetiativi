@@ -136,7 +136,7 @@ http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/inews.jpg" group-title="🟠TV NASIONAL",Inews
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
+http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
         #<!--- TRANS GRUP --->#
 
