@@ -420,6 +420,19 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h244/index.m3u8?app_type=web&userid=li
 https://op-flashcon-digdayahd-1.dens.tv/h/h222/index.m3u8?app_type=web&userid=lite&chname=DensLifenStyle
 
 
+#<!--- F1 & MOTOGP --->#
+
+#EXTINF:-1 group-title="🟠OLAHRAGA" tvg-logo="https://cdn-1.webcatalog.io/catalog/f1-tv/f1-tv-icon-filled-256.png?v=1785112435593",F1 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=505616380de706936e493fdd1c25d0b6:5b313f49c63c682236eab3357400e216
+https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
+
+#EXTINF:-1 group-title="🟠OLAHRAGA" tvg-logo="https://tangselxpress.com/wp-content/uploads/2024/11/467518278_981455960682256_4650896594190468016_n.jpg,MotoGP Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
 
 
 #<!--- SPOTV --->#
