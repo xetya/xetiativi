@@ -64,17 +64,16 @@ http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/http://github.
 #KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=205.drm
 http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://raw.githubusercontent.com/xetya77/XETYATV/refs/heads/main/logo/nasional/sctv.png" group-title="🟠TV NASIONAL", SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.vidio.com&referer=http://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
-http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="🟠TV NASIONAL",SCTV
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+
 
 #EXTINF:-1 group-title="🟠TV NASIONAL" tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_rtv.png",RTV 
 #EXTVLCOPT:http-referer=https://www.dens.tv/ 
